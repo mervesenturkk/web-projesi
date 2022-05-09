@@ -1,0 +1,32 @@
+.ayrac{
+font-size: 30;
+margin: 0px 20px;
+color: #fff;
+font-weight: bold;
+}
+
+.nav-bg{
+    background-color: #17a2b8;
+}
+
+.nav-item a{
+    color:#fff;
+    font-size: 16px;
+}
+
+.hakkimda{
+    background: #cec7c7;
+}
+
+.hobilerim{
+    background-color: rgb(195, 181, 181);
+}
+
+.cizgi{
+    max-width: 300px;
+    margin: 25px auto;
+}
+
+.golge>img:hover{
+    opacity: 0.8;
+}
