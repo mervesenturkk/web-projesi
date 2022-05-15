@@ -1,0 +1,59 @@
+body{
+   background-color:rgb(217, 217, 222);
+    font-family: 'Raleway', sans-serif;
+}
+.ayrac{
+    font-size: 30;
+    margin: 0px 20px;
+    color: #fff;
+    font-weight: bold;
+    }
+    
+.nav-bg{
+    background-color: #17a2b8;
+    }
+    
+.nav-item a{
+    color:#fff;
+    font-size: 16px;
+    }
+
+.resimSlider{
+    height: 400px;
+}
+
+.arkaplan{
+    background:#cec7c7 ;
+}
+
+.icerik{
+    background: rgb(195, 181, 181);
+}
+
+.baslik{
+    color: #0b3962;
+}
+.cizgi{
+    max-width: 300px;
+    margin: 25px auto;
+}
+.tanitimYazisi{
+    font-size: 18px;
+}
+.boyut_figure{
+    height: 300px;
+}
+.boyut_figure2{
+    height: 200px;
+}
+.baslik2{
+    margin-top: 80px;
+}
+footer{
+    width: 100%;
+    height: 50px;
+    background-color: #17a2b8;
+    color: #ffff;
+    line-height: 50px;
+    text-align: center;
+}
